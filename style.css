@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#logo{
+    float: right;
+    padding: 20px;
+    float: left;
+}
+
+.right-bottom{
+    position: relative;
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: 200%;
+    float: right;
+}
+
+
+.icon{
+    margin: 400px;
+    margin-top: 500px;
+    margin-left: 30px;
+}
+
+
+  h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #00bcd4;
+    margin-bottom: 10px;
+}
+
+.page{
+    font-family: sans-serif;
+    padding: 40%;
+    color: rgb(63, 56, 56);
+
+}
+
+
+h1{
+    padding-top: 100px;
+    margin-left: 18ch;
+    font-weight: 100;
+    color: rgb(63, 56, 56);
+}
+
+
+form input{
+    display: flex;
+     border: none;
+     border-bottom: 1px solid rgb(26, 22, 22);
+     width: 30%;
+     font-size: 20px;
+     margin: 10px;
+     margin-top: 50px;
+     margin-left: 100px;
+
+
+
+}
+
+
+ button{
+    width: 150px;
+    height: 40px;
+    background-color: #00bcd4;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: white;
+
+}
+
+
+footer{
+    margin-top: 70px;
+    margin-left: 30ch;
+}
+
+footer p {
+    margin: 15px;
+    color: rgb(88, 82, 82);
+
+
+}
+
+h3{
+    font-size: 15px;
+     margin-left: 100px;
+     margin-top: 10px;
+     padding: 0px;
+     font-weight: 100;
+}
+
+footer img{
+    margin-left: 3px;
+}
+
